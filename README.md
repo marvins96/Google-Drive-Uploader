@@ -2,12 +2,9 @@
 
 # Google Drive Uploader Bot
   
-`It Was my first Python Project And behind this  Whole credit goes To ` [CyberBoySumanjay](https://github.com/cyberboysumanjay) 
+Whole credit goes To ` [CyberBoySumanjay](https://github.com/cyberboysumanjay) 
 
-### Inspired By Sumanjay  Bot :D [Google Drive Uploader](https://telegram.dog/driveuploadbot)
-
-Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/gdriveupme_bot)
-
+### Inspired By Sumanjay  Bot :D [Google Drive Uploader]
 
 
 ### What Is this ?
